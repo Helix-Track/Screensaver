@@ -1,6 +1,6 @@
 # HelixTrack Screensaver
 
-The HelixTrack screensaver.
+The HelixTrack screensaver for the [Mate](https://mate-desktop.org/) desktop environment.
 
 ## How to install
 
