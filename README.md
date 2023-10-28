@@ -6,7 +6,7 @@ The HelixTrack screensaver for the [Mate](https://mate-desktop.org/) desktop env
 
 Follow these installation instructions:
 
-- Clone the [Software Toolkit](git@github.com:red-elf/Software-Toolkit.git) into the desired directory and `cd` into it
+- Clone the [Software Toolkit](https://github.com/red-elf/Software-Toolkit) into the desired directory and `cd` into it
 - Execute the `initialize.sh`:
 
   ```shell
@@ -17,11 +17,11 @@ Follow these installation instructions:
 
 - Once all Git submodules are initialized and cloned add the `Installable` module's directory into the system path
 - Reload your .bashrc or .zasrc configuration
-- Download or clone the [Screensaver](git@github.com:Helix-Track/Screensaver.git) into the desired directory and `cd` into it
-- Execute: `install.sh`, this will execute the `prepare.sh` and `install.sh` scripts from the Recipses directory.
+- Download or clone the Screensaver into the desired directory and `cd` into it
+- Execute: `install.sh`, this will execute the `prepare.sh` and `install.sh` scripts from the `Recipes` directory.
 
-Installation will be performed by default into `/usr/share/applications/screensavers` directory.
-To override this export the environment variable `HELIX_TRACK_SCREENSAVER_DIR` with the value of desired path.
+Installation will be performed by default into the `/usr/share/applications/screensavers` directory.
+To override this, export the environment variable `HELIX_TRACK_SCREENSAVER_DIR` with the value of desired path.
 For example:
 
 ```shell
