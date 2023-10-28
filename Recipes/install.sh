@@ -46,5 +46,4 @@ if ! test -e "$DIR_PIXMAPS/$SVG"; then
     fi
 fi
 
-echo "ERROR: Not implemented"
-exit 1
+echo "Installation completed with success"
