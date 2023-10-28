@@ -24,7 +24,7 @@ fi
 
 if test -e "$INSTALL_INTO/$SCREENSAVER"; then
 
-    echo "HelixTrack Screensaver is already installed"
+    echo "The HelixTrack Screensaver is already installed"
     exit 0
 fi
 
