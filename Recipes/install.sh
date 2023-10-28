@@ -1,5 +1,12 @@
 #!/bin/sh
 
+# TODO:
+#
+# Exec=/usr/libexec/mate-screensaver/floaters /usr/share/pixmaps/helixtrack.svg
+# TryExec=/usr/libexec/mate-screensaver/floaters
+#
+# ^^^ Check if available, if it is not, do the install via package manager.
+
 HERE=$(pwd)
 
 echo "Installing the HelixTrack Screensaver"
