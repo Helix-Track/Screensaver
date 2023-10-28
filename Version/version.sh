@@ -1,0 +1,8 @@
+#!/bin/bash
+export VERSIONABLE_SNAPSHOT=false
+export VERSIONABLE_NAME="Screensaver"
+export VERSIONABLE_VERSION_PRIMARY="1"
+export VERSIONABLE_VERSION_SECONDARY="0"
+export VERSIONABLE_VERSION_PATCH="0"
+export VERSIONABLE_HOMEPAGE="https://www.helixtrack.ru/"
+export VERSIONABLE_DESCRIPTION="HelixTRack Screensaver."
