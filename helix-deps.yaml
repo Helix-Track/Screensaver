@@ -1,6 +1,6 @@
 # helix-deps.yaml — screensaver Submodule-Dependency Manifest (HelixConstitution §11.4.31)
 # Catalogue-Check (§11.4.74): inspected README.md, Recipes/install.sh, Recipes/prepare.sh,
-#   Upstreams/{Gitee,GitFlic,GitHub}.sh, Version/version.sh, and the absence of any
+#   Upstreams/GitHub.sh (§6.W: Gitee/GitFlic retired), Version/version.sh, and the absence of any
 #   ecosystem manifest (no go.mod / package.json / build.gradle / Package.swift /
 #   Cargo.toml / pom.xml) and any repo-local .gitmodules.
 #   This is a Mate-desktop screensaver: an SVG asset (helixtrack.svg) + a .desktop
